@@ -326,8 +326,8 @@
 .el-checkbox-button--large{}
 
 .el-checkbox-button--large .el-checkbox-button__inner{
-    padding: 15px 19px;
-    font-size: 14px;
+    padding: 11px 19px;
+    font-size: 16px;
     border-radius: 0
 }
 

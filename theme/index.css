@@ -2832,7 +2832,7 @@
     -ms-user-select: none;
     padding: 10px 15px;
     font-size: 14px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button + .el-button {
     margin-left: 10px;
@@ -3087,19 +3087,19 @@
     outline: none;
 }
 .el-button--large {
-    padding: 15px 19px;
-    font-size: 14px;
-    border-radius: 100px;
+    padding: 11px 19px;
+    font-size: 16px;
+    border-radius: 4px;
 }
 .el-button--small {
     padding: 7px 9px;
     font-size: 12px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button--mini {
     padding: 4px 4px;
     font-size: 12px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button--text {
     border: none;
@@ -4780,8 +4780,8 @@
 }
 .el-radio-button--large {}
 .el-radio-button--large .el-radio-button__inner {
-    padding: 15px 19px;
-    font-size: 14px;
+    padding: 11px 19px;
+    font-size: 16px;
     border-radius: 0;
 }
 .el-radio-button--small {}
@@ -5086,8 +5086,8 @@
 }
 .el-checkbox-button--large {}
 .el-checkbox-button--large .el-checkbox-button__inner {
-    padding: 15px 19px;
-    font-size: 14px;
+    padding: 11px 19px;
+    font-size: 16px;
     border-radius: 0;
 }
 .el-checkbox-button--small {}
@@ -6579,7 +6579,7 @@
     -ms-user-select: none;
     padding: 10px 15px;
     font-size: 14px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button + .el-button {
     margin-left: 10px;
@@ -6834,19 +6834,19 @@
     outline: none;
 }
 .el-button--large {
-    padding: 15px 19px;
-    font-size: 14px;
-    border-radius: 100px;
+    padding: 11px 19px;
+    font-size: 16px;
+    border-radius: 4px;
 }
 .el-button--small {
     padding: 7px 9px;
     font-size: 12px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button--mini {
     padding: 4px 4px;
     font-size: 12px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button--text {
     border: none;
@@ -7238,8 +7238,8 @@
 }
 .el-checkbox-button--large {}
 .el-checkbox-button--large .el-checkbox-button__inner {
-    padding: 15px 19px;
-    font-size: 14px;
+    padding: 11px 19px;
+    font-size: 16px;
     border-radius: 0;
 }
 .el-checkbox-button--small {}
@@ -8189,8 +8189,8 @@
 }
 .el-checkbox-button--large {}
 .el-checkbox-button--large .el-checkbox-button__inner {
-    padding: 15px 19px;
-    font-size: 14px;
+    padding: 11px 19px;
+    font-size: 16px;
     border-radius: 0;
 }
 .el-checkbox-button--small {}
@@ -13095,7 +13095,7 @@
     -ms-user-select: none;
     padding: 10px 15px;
     font-size: 14px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button + .el-button {
     margin-left: 10px;
@@ -13350,19 +13350,19 @@
     outline: none;
 }
 .el-button--large {
-    padding: 15px 19px;
-    font-size: 14px;
-    border-radius: 100px;
+    padding: 11px 19px;
+    font-size: 16px;
+    border-radius: 4px;
 }
 .el-button--small {
     padding: 7px 9px;
     font-size: 12px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button--mini {
     padding: 4px 4px;
     font-size: 12px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button--text {
     border: none;
@@ -22184,7 +22184,7 @@
     -ms-user-select: none;
     padding: 10px 15px;
     font-size: 14px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button + .el-button {
     margin-left: 10px;
@@ -22439,19 +22439,19 @@
     outline: none;
 }
 .el-button--large {
-    padding: 15px 19px;
-    font-size: 14px;
-    border-radius: 100px;
+    padding: 11px 19px;
+    font-size: 16px;
+    border-radius: 4px;
 }
 .el-button--small {
     padding: 7px 9px;
     font-size: 12px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button--mini {
     padding: 4px 4px;
     font-size: 12px;
-    border-radius: 100px;
+    border-radius: 4px;
 }
 .el-button--text {
     border: none;
@@ -22842,8 +22842,8 @@
 }
 .el-checkbox-button--large {}
 .el-checkbox-button--large .el-checkbox-button__inner {
-    padding: 15px 19px;
-    font-size: 14px;
+    padding: 11px 19px;
+    font-size: 16px;
     border-radius: 0;
 }
 .el-checkbox-button--small {}

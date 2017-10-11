@@ -11,7 +11,7 @@
 
   /* Colors
   -------------------------- */
-  --color-primary: #20a0ff;
+  --color-primary: #2895f1;
 
   --color-success: #13ce66;
   --color-warning: #f7ba2a;
@@ -332,12 +332,12 @@
   /* Button
   -------------------------- */
   --button-font-size: 14px;
-  --button-border-radius: var(--border-radius-base);
+  --button-border-radius: 100px;
   --button-padding-vertical: 10px;
   --button-padding-horizontal: 15px;
 
-  --button-large-font-size: 16px;
-  --button-large-padding-vertical: 11px;
+  --button-large-font-size: 14px;
+  --button-large-padding-vertical: 15px;
   --button-large-padding-horizontal: 19px;
 
   --button-small-font-size: 12px;
